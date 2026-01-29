@@ -8,7 +8,10 @@ It works with **offline font files** and automatically injects the necessary `@f
 
 ## Screenshot
 
-![Code Server with Cascadia Code](images/Screenshot_20260129-204704.png)
+<p align="center">
+  <img src="images/Screenshot_20260129-204704.png" width="45%" />
+  <img src="images/Screenshot_20260130-011401.jpg" width="45%" />
+</p>
 
 ---
 
