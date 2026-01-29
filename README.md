@@ -33,7 +33,7 @@ fonts/cascadia/
 3. Run the patch script. The script automatically detects your code-server installation path:
 
 ```bash
-sudo ./install-cascadia-existing.sh
+sudo ./patch.sh
 ```
 
 > The script will copy the fonts to the code-server _static folder, inject the CSS, and back up workbench.html.
